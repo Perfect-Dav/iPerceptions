@@ -336,6 +336,9 @@ section.adapt p{
   div.google-dott{
     display: hidden;
   }
+  div.details{
+    margin-left: 80px;
+  }
 }
 @media only screen and (min-width:375px) and (max-width:375px) {
   div.google-circle{
